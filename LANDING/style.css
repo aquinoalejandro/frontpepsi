@@ -137,7 +137,7 @@ button{
     font-weight: 400;
     border: none;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 10px !important;
     cursor: pointer;
 }
 
@@ -160,8 +160,9 @@ button{
     background-color: #ffffff;
     color: #180775;
     padding: 10px;
-    margin: 20px;
     box-shadow: 20px 0 20px rgba(255, 255, 255, 0.1);
+    width: 100%;
+    
 }
 
 .contactdiv{
